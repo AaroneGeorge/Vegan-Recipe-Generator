@@ -13,3 +13,8 @@
 
 
 *VIDEO LINK: https://youtu.be/jedJER5tlrs*
+
+
+# Contributors:
+[<img src="https://github.com/ryuzen6.png" width="60px;"/>](https://github.com/ryuzen6)
+[<img src="https://github.com/AaroneGeorge.png" width="60px;"/>](https://github.com/AaroneGeorge)
