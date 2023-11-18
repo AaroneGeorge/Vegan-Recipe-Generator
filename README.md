@@ -12,4 +12,4 @@
 ![image](https://github.com/AaroneGeorge/Vegan-Recipe-Generator/assets/96471433/71a3e7ba-a9a9-43a5-822b-de663ad245c4)
 
 
-*VIDEO LINK : https://youtu.be/jedJER5tlrs*
+*VIDEO LINK: https://youtu.be/jedJER5tlrs*
