@@ -5,7 +5,7 @@
 2. `cd Vegan-Recipe-Generator`
 3. `streamlit run app.py`
 
-*NOTE: before running the app.py, add your API key/keys*
+*NOTE: before running the app.py, add your API keys*
 
 # WORKING
 
